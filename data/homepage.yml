@@ -4,15 +4,6 @@ banner:
   title : "Disfunción erectil"
   content : "La disfunción eréctil (o también llamada "impotencia") es una falla en la erección, durante la cual la rigidez, la forma y el volumen del pene de un hombre no le permiten tener relaciones sexuales. Para los representantes del sexo más fuerte, los problemas con la potencia interfieren no solo con la actividad sexual en toda regla, sino que también dañan su estado mental. A menudo, la disfunción eréctil se asocia con una serie de otras enfermedades o trastornos mentales y es menos común como enfermedad autónoma. Solo en Ucrania, de 2 a 4 millones de hombres padecen esta enfermedad."
   image : "images/banner.png"
-  # button
-  button:
-    enable : true
-    label : "All Products"
-    link : "products"
-  # demo video
-  video:
-    enable : true
-    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
 ########################## About ##############################
 about:
@@ -26,19 +17,6 @@ psicógeno (funcional): debido a una relación sexual anterior sin éxito, compo
 
 
 
-########################### Advantage #########################
-advantage:
-  enable : true
-  title : "Entre todas las razones que conducen a la pérdida de la fuerza masculina, se pueden destacar:"
-  image : "images/advantage.png"
-  advantageList:
-    # advantage list loop
-    - listItem : "1enfermedades generales del cuerpo (diabetes mellitus, aterosclerosis, trastornos hormonales, etc.);"
-    - listItem : "enfermedades adquiridas de los órganos genitales;"
-    - listItem : "patología o trauma congénito e intervenciones quirúrgicas en los órganos del sistema reproductor masculino;"
-    - listItem : "consumir drogas o consumo excesivo de bebidas alcohólicas, cigarrillos;"
-    - listItem : "intoxicación crónica con psicotrópicos y otras sustancias medicinales;"
-    - listItem : "Procesos inflamatorios en los órganos pélvicos."
 
 
 
