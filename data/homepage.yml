@@ -1,0 +1,30 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "DISFUNCIÓN EREKTIL (IMPOTENCIA)"
+  content : "DISFUNCIÓN EREKTIL (IMPOTENCIA)
+La disfunción eréctil (o también llamada "impotencia") es una falla en la erección, durante la cual la rigidez, la forma y el volumen del pene de un hombre no le permiten tener relaciones sexuales. Para los representantes del sexo más fuerte, los problemas con la potencia interfieren no solo con la actividad sexual en toda regla, sino que también dañan su estado mental. A menudo, la disfunción eréctil se asocia con una serie de otras enfermedades o trastornos mentales y es menos común como enfermedad autónoma. Solo en España, de 2 a 4 millones de hombres padecen esta enfermedad."
+  image : "images/banner.png"
+  
+
+########################## About ##############################
+about:
+  enable : true
+  title : "enfermedades generales del cuerpo (diabetes mellitus, aterosclerosis, trastornos hormonales, etc.);
+enfermedades adquiridas de los órganos genitales;
+patología o trauma congénito e intervenciones quirúrgicas en los órganos del sistema reproductor masculino;
+Enfermedad de Peyronie;
+consumir drogas o consumo excesivo de bebidas alcohólicas, cigarrillos;
+intoxicación crónica con psicotrópicos y otras sustancias medicinales;
+Procesos inflamatorios en los órganos pélvicos."
+  image : "images/about.png"
+
+
+
+
+
+
+
+
+
+
