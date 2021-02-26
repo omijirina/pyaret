@@ -33,7 +33,7 @@ advantage:
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "enfermedades generales del cuerpo (diabetes mellitus, aterosclerosis, trastornos hormonales, etc.);"
+    - listItem : "1enfermedades generales del cuerpo (diabetes mellitus, aterosclerosis, trastornos hormonales, etc.);"
     - listItem : "enfermedades adquiridas de los órganos genitales;"
     - listItem : "patología o trauma congénito e intervenciones quirúrgicas en los órganos del sistema reproductor masculino;"
     - listItem : "consumir drogas o consumo excesivo de bebidas alcohólicas, cigarrillos;"
