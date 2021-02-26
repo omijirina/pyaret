@@ -19,23 +19,4 @@ psicógeno (funcional): debido a una relación sexual anterior sin éxito, compo
 
 
 
-########################### Advantage #########################
-advantage:
-  enable : true
-  title : "Entre todas las razones que conducen a la pérdida de la fuerza masculina, se pueden destacar:"
-  image : "images/advantage.png"
-  advantageList:
-    # advantage list loop
-    - listItem : "enfermedades generales del cuerpo (diabetes mellitus, aterosclerosis, trastornos hormonales, etc.);"
-    - listItem : "enfermedades adquiridas de los órganos genitales;"
-    - listItem : "patología o trauma congénito e intervenciones quirúrgicas en los órganos del sistema reproductor masculino;"
-    - listItem : "consumir drogas o consumo excesivo de bebidas alcohólicas, cigarrillos;"
-    - listItem : "intoxicación crónica con psicotrópicos y otras sustancias medicinales;"
-    - listItem : "Procesos inflamatorios en los órganos pélvicos."
-
-
-
-
-
-
 
