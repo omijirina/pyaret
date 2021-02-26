@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://pyaret.vercel.app/"
-languageCode = "en" "es"
+languageCode = "en""es"
 title = "Pyaro"
 theme = "hargo1"
 summaryLength = "20"
